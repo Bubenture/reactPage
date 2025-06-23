@@ -33,7 +33,7 @@ Frontend:
 - React
 - Vite
 - Ant Design
-- React Chart.js 2
+- React 
 - JavaScript 
 - CSS
 
