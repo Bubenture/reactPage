@@ -20,23 +20,23 @@ The project is a web application for managing a cryptocurrency portfolio. Users 
 - Asset distribution chart.
 - Table with data for each asset (name, price, quantity).
 
-![Portfolio View](frontend/public/PortfolioView.png)
+![Просмотр портфеля](frontend/public/Просмотрпортфеля.png)
 
 #### Adding Assets:
 - A form for adding a new asset, specifying quantity, price, and purchase date.
 - Automatic recalculation of total value and profit.
 
-![Adding Assets](frontend/public/AddingAssets.png)
+![Добавление активов](frontend/public/Добавлениеактивов.png)
 
 #### Cryptocurrency Information:
 - A modal window with detailed information about the selected cryptocurrency (price, market capitalization, changes over 1 hour/day/week).
 
-![Cryptocurrency Information](frontend/public/CryptocurrencyInfo.png)
+![Информация о криптовалютах](frontend/public/Информацияокриптовалютах.png)
 
 #### Sidebar:
 - Cards with information about each asset (profit, growth percentage, total quantity).
 
-![Sidebar](frontend/public/Sidebar.png)
+![Сайдбар](frontend/public/Сайдбар.png)
 
 ### Technologies Used in the Project:
 
