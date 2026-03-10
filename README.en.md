@@ -1,15 +1,7 @@
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+</br>
 # reactPage
 
-</br>
-<div>
-    <a href="README.md">
-        <img src="https://img.shields.io/badge/README-RU-blue?color=006400&labelColor=006400&style=for-the-badge">
-    </a>
-    <a href="README.en.md">
-        <img src="https://img.shields.io/badge/README-ENG-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
-    </a>
-</div>
-</br>
 
 The project is a web application for managing a cryptocurrency portfolio. Users can add assets, view information about cryptocurrencies, analyze data using charts and tables, and receive updates on the current state of their portfolio.
 
